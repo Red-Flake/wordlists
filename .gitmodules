@@ -1,0 +1,4 @@
+[submodule "seclists"]
+	path = seclists
+	url = https://github.com/danielmiessler/SecLists
+	branch = master
