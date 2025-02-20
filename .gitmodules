@@ -2,3 +2,7 @@
 	path = seclists
 	url = https://github.com/danielmiessler/SecLists
 	branch = master
+[submodule "statistically-likely-usernames"]
+	path = statistically-likely-usernames
+	url = https://github.com/insidetrust/statistically-likely-usernames
+	branch = master
