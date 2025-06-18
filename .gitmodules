@@ -6,3 +6,6 @@
 	path = statistically-likely-usernames
 	url = https://github.com/insidetrust/statistically-likely-usernames
 	branch = master
+[submodule "security-wordlist"]
+	path = security-wordlist
+	url = https://github.com/DragonJAR/Security-Wordlist.git
