@@ -24,7 +24,7 @@ This repository contains a curated collection of wordlists commonly used for sec
 
 **Clone the Repository with Submodules:**
 ```bash
-git clone --recursive https://github.com/yourusername/wordlists.git
+git clone --recursive https://github.com/Red-Flake/wordlists.git
 ```
 
 <br>
